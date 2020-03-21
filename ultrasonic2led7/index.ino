@@ -37,7 +37,8 @@ void loop() {
       Distance = Distance*340*100/1000000; // 340m/s = 34000cm/s = 0.034cm/us 
       Serial.print(Distance);
       Serial.println(" cm");
-      display.showNumberDec((unsigned int)(Distance*100), false); // 気圧
+      display.showNumberDec((unsigned int)(Distance*100), false);
+//      analogWrite(11, (unsigned int)(100-Distance));//ビープ音
     }
   delay(100);
 }
