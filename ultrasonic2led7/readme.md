@@ -1,5 +1,6 @@
 # Overview
-temperature->7seg(x4)LED
+HC-SR04->7seg(x4)LED
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ldNOMMeGAis/0.jpg)](http://www.youtube.com/watch?v=ldNOMMeGAis)
 
 # pin
