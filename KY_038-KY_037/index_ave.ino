@@ -31,10 +31,10 @@ void loop() {
   for(int i=0 ; i<KY_03x_LEN;i++){
     ave+=KY_03xs[i];
   }
-  ky_03x = ave/KY_03x_LEN;
+  KY_03x = ave/KY_03x_LEN;
 
-  display.showNumberDec(ky_03x, false); 
+  display.showNumberDec(KY_03x, false); 
   Serial.print("ky_03x: ");
-  Serial.print(ky_03x);
+  Serial.print(KY_03x);
   delay(100);
 }
