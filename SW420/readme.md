@@ -1,7 +1,7 @@
 # Overview
 SW420->7seg(x4)LED
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dazaiBNsxPQ/0.jpg)](http://www.youtube.com/watch?v=dazaiBNsxPQ)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/OiNSO4D9BDE/0.jpg)](http://www.youtube.com/watch?v=OiNSO4D9BDE)
 
 # pin
 uno ->  SW420  
